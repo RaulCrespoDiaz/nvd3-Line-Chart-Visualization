@@ -1,0 +1,11 @@
+.wrap {
+  white-space: nowrap;
+}
+.chart,
+.message{
+  vertical-align:top;
+}
+.message {
+  margin-top: 150px;
+  margin-left: 60px;
+}
