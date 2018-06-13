@@ -12,15 +12,15 @@ For this exercise we will use 3 diferents model options inside Nvd3 library
 
 - Chart using **linechart**:
 
-![results_scores](./pictures/linechart.JPG)
+![results_scores](./pictures/linechart.jpg)
 
 - Chart using **multiChart**:
 
-![results_scores](./pictures/multichart.JPG)
+![results_scores](./pictures/multichart.jpg)
 
 - Chart using **scatterChart**:
 
-![results_scores](./pictures/scatterchart.JPG)
+![results_scores](./pictures/scatterchart.jpg)
 
 
 
